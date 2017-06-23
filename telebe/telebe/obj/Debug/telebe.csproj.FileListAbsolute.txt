@@ -1,0 +1,6 @@
+c:\users\turan\documents\visual studio 2017\Projects\telebe\telebe\obj\Debug\telebe.csprojResolveAssemblyReference.cache
+c:\users\turan\documents\visual studio 2017\Projects\telebe\telebe\bin\Debug\telebe.exe.config
+c:\users\turan\documents\visual studio 2017\Projects\telebe\telebe\bin\Debug\telebe.exe
+c:\users\turan\documents\visual studio 2017\Projects\telebe\telebe\bin\Debug\telebe.pdb
+c:\users\turan\documents\visual studio 2017\Projects\telebe\telebe\obj\Debug\telebe.exe
+c:\users\turan\documents\visual studio 2017\Projects\telebe\telebe\obj\Debug\telebe.pdb
